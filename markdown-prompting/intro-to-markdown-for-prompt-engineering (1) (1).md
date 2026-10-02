@@ -11,7 +11,7 @@ tags: ["markdown", "gfm", "prompt-engineering", "llm", "beginner"]
 
 # Introduction to Markdown Syntax for Prompt Engineering (2026)
 
-> A beginner-friendly, production-ready guide to using GitHub Flavored Markdown (GFM) to write clear, structured, and powerful prompts for modern LLMs.
+> A beginner-friendly guide to using GitHub Flavored Markdown (GFM) to write clear, structured, and powerful prompts for modern LLMs.
 
 ## Table of Contents
 
