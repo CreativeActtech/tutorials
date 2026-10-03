@@ -13,8 +13,11 @@ This beginner-level tutorial introduces GitHub Flavored Markdown (GFM) as the st
 
 ### Introduction to Contextual Markdown for LLMs and Agents 2026
 
+A production guide to writing contextual documents — persistent Markdown files that teach LLMs and AI agents how to work with your codebase, docs, and website. Covers AGENTS.md, llms.txt (v2), CLAUDE.md, Copilot instructions, Cursor rules, Windsurf rules, and more.
 
-[Contextual Markdown Guide 2026]
+[Contextual Markdown Guide 2026](https://github.com/CreativeActtech/tutorials/blob/main/Markdown-Tutorials%2FIntro_Markdown_Context_Files_2026.md)
+
+<br>
 
 
 
